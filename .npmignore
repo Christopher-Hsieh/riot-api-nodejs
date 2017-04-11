@@ -1,7 +1,1 @@
-*.ts
-.travis.yml
-.gitignore
-typings.json
-tsconfig.json
-node_modules
-typings
+
